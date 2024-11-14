@@ -1,0 +1,1 @@
+MsgBox "GoodbyeDPI has successfully started running in the background. It will also now run automatically on every startup so you don't have to run it every time." & vbCrLf & vbCrLf & "You can now bypass all access barriers on the Internet. Long live freedom!", vbInformation, "GoodbyeDPI"
