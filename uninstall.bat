@@ -1,3 +1,3 @@
 echo off
 cls
-runas /user:Administrator src/__.bat
+powershell -Command "Start-Process src/__.bat -Verb runAs"
