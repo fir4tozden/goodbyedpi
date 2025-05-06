@@ -1,6 +1,3 @@
 echo off
 cls
-taskkill /IM "goodbyedpi.exe" /F
-sc stop WinDivert
-cd..
-rmdir /S /Q goodbyedpi*
+runas /user:Administrator src/__.bat

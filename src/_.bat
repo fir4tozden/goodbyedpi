@@ -1,3 +1,3 @@
 echo off
 cls
-cscript //nologo "%~dp0/_.vbs"
+cscript //nologo %~dp0/_.vbs
