@@ -1,1 +1,1 @@
-MsgBox "GoodbyeDPI has been successfully removed. I think the internet is freer now!", vbInformation, "GoodbyeDPI"
+MsgBox "GoodbyeDPI has been successfully uninstalled." & vbCrLf & vbCrLf & "I think the internet is freer now!", vbInformation, "GoodbyeDPI"
