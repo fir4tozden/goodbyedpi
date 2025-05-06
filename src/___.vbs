@@ -1,0 +1,1 @@
+MsgBox "GoodbyeDPI has been successfully removed. I think the internet is freer now!", vbInformation, "GoodbyeDPI"
