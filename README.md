@@ -11,3 +11,5 @@ GoodbyeDPI is a lightweight tool designed to bypass DPI (Deep Packet Inspection)
 First of all, put this script in a place where you will not change its location in the future. Because the script will be run on every startup. If you change the file location, you can run `install.bat` again.
 
 Then run `install.bat`. That's it! This script will add GoodbyeDPI as a startup application so you don't have to run it every time. It will also run invisibly in the background.
+
+If you want to uninstall it just run `uninstall.bat`.
